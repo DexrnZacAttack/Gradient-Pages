@@ -1,4 +1,4 @@
-Add's Gradient's to a bunch of pages in the game like:
+Adds gradients to a bunch of pages in the game like:
 
 - Player Profiles
 - Level Descriptions
